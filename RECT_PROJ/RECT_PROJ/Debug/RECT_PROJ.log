@@ -1,0 +1,9 @@
+﻿  paixu.c
+i:\발표\新建文件夹\rect_proj\rect_proj\paixu.c(146): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+  main.c
+i:\발표\新建文件夹\rect_proj\rect_proj\main.c(15): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+i:\발표\新建文件夹\rect_proj\rect_proj\main.c(54): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+i:\발표\新建文件夹\rect_proj\rect_proj\main.c(55): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+  LINK : 没有找到 I:\발표\新建文件夹\RECT_PROJ\Debug\RECT_PROJ.exe 或上一个增量链接没有生成它；正在执行完全链接
+  RECT_PROJ.vcxproj -> I:\발표\新建文件夹\RECT_PROJ\Debug\RECT_PROJ.exe

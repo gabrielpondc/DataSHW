@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\gabriel\desktop\新建文件夹\project1\project1\main.c(17): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\gabriel\desktop\新建文件夹\project1\project1\main.c(63): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  Project1.vcxproj -> C:\Users\Gabriel\Desktop\新建文件夹\Project1\Debug\Project1.exe
